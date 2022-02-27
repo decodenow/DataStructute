@@ -1,5 +1,10 @@
 # DataStructute
 
+# LinkedList
+
+ - cd LinkedList
+ - node linkedList.js
+
 # Stack
 
  - cd Stack
