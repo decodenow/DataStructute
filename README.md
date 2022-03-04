@@ -24,3 +24,8 @@
 
  - cd BinarySearch
  - node binarySearch.js
+
+# Recursion
+
+ - cd Recursion
+ - node recursion.js
