@@ -29,3 +29,8 @@
 
  - cd Recursion
  - node recursion.js
+
+# Bubble sort
+
+ - cd BubbleSort
+ - node bubbleSort.js
