@@ -34,3 +34,8 @@
 
  - cd BubbleSort
  - node bubbleSort.js
+
+# Selection sort
+
+ - cd SelectionSort
+ - node selectionSort.js
