@@ -39,3 +39,13 @@
 
  - cd SelectionSort
  - node selectionSort.js
+
+# Merge sort
+
+ - cd MergeSort
+ - node mergeSort.js
+
+# Insertion sort
+
+ - cd InsertionSort
+ - node insertionSort.js
